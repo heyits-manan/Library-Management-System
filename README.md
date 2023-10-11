@@ -35,6 +35,3 @@ To run the program, follow these steps:
 
 Feel free to contribute to this project by creating issues or opening pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
